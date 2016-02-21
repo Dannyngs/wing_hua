@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["title","img","link"],"table":{"crudTitle":"T_Showcase manager","crudRowsPerPage":"20"},"filter":{"list":["id","title","img","link"],"atrr":{"id":{"alias":"id"}}},"column":{"list":["id","title","img","link"],"actived":["id","title"],"atrr":{"id":{"alias":"id"}}},"frm_type":"2"}

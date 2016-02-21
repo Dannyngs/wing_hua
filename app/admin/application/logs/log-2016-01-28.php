@@ -1,0 +1,9 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-01-28 14:35:26 --> Severity: Notice  --> Only variable references should be returned by reference E:\kim_hung_aquarium\app\admin\system\core\Common.php 257
+ERROR - 2016-01-28 14:35:28 --> Severity: Warning  --> mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ E:\kim_hung_aquarium\app\admin\system\database\drivers\mysqli\mysqli_driver.php 76
+ERROR - 2016-01-28 14:35:28 --> Severity: Warning  --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. E:\kim_hung_aquarium\app\admin\system\libraries\Log.php 86
+ERROR - 2016-01-28 14:35:28 --> Severity: Warning  --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. E:\kim_hung_aquarium\app\admin\system\libraries\Log.php 99
+ERROR - 2016-01-28 14:35:28 --> Unable to connect to the database
+ERROR - 2016-01-28 14:35:28 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at E:\kim_hung_aquarium\app\admin\system\libraries\Log.php:99) E:\kim_hung_aquarium\app\admin\system\core\Common.php 442

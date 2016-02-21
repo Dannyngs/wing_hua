@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["office","address","site_title","description"],"table":{"crudTitle":"T_System manager","crudRowsPerPage":"20"},"filter":{"list":["id","office","whatsapp","emai","address","site_title","description"],"atrr":{"id":{"alias":"id"}}},"column":{"list":["id","office","whatsapp","emai","address","site_title","description"],"actived":["id","office"],"atrr":{"id":{"alias":"id"}}},"frm_type":"2"}

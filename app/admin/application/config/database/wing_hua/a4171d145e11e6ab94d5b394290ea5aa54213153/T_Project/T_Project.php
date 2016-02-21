@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["title","image"],"table":{"crudTitle":"T_Project manager","crudRowsPerPage":"20"},"filter":{"list":["id","title","image"],"atrr":{"id":{"alias":"id"}}},"column":{"list":["id","title","image"],"actived":["id","title"],"atrr":{"id":{"alias":"id"}}},"frm_type":"2"}
