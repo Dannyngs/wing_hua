@@ -1,31 +1,31 @@
 <?php
 require_once 'init.php';
- $rs = $db->query("SELECT* FROM T_Project");
+ $rs = $db->query("SELECT* FROM T_Product");
     $pros = $rs->fetchAll();
   ?>
 <?php
 require_once 'header.php';
 ?>
- 
+
 <div class="container">
      <div class="banner">
-      <img class="img-responsive" src="_/img/pro1.jpg"/> 
+      <img class="img-responsive" src="_/img/pro1.jpg"/>
     </div>
-    
+
     <div id="PageBody">
     <div class="row showc">
-        
-     <h4><B>OUR PRODUCT</B></h4>   
-               
-    <?php  foreach($pros as $pro)          
-{?> 
+
+     <h4><B>OUR PRODUCT</B></h4>
+
+    <?php  foreach($pros as $pro)
+{?>
 
 
    <div class="col-md-4 col-sm-6">
              <div class="prodiv text-center">
                  <a href="<?php echo  $imgurl.$pro['image'];?>" data-lightbox="image1" data-title="<?php echo $pro['title'];?>">
                  <img class="img-responsive" src="<?php echo  $imgurl.$pro['image'];?>"/>
-                 
+
                   <div class="moved">
                    <p><?php echo $pro['title'];?></p>
                   </div>
@@ -37,9 +37,9 @@ require_once 'header.php';
     }
 ?>
 
-        
 
-       
+
+
     </div>
 
         <!--
