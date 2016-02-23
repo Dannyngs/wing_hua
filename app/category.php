@@ -1,6 +1,6 @@
 <?php
 require_once 'init.php';
- $rs = $db->query("SELECT* FROM T_Product");
+ $rs = $db->query("SELECT* FROM T_Product where cat_id =".$_GET['id']);
     $pros = $rs->fetchAll();
   ?>
 <?php
