@@ -2,6 +2,10 @@
 require_once 'init.php';
  $rs = $db->query("SELECT* FROM T_Product where cat_id =".$_GET['id']);
     $pros = $rs->fetchAll();
+
+$rs = $db->query("SELECT* FROM T_Category where id =".$_GET['id']);
+    $cat = $rs->fetch();
+
   ?>
 <?php
 require_once 'header.php';
@@ -15,7 +19,7 @@ require_once 'header.php';
     <div id="PageBody">
     <div class="row showc">
 
-     <h4><B>OUR PRODUCT</B></h4>
+     <h4><B><?php echo $cat['cat_name']; ?></B></h4>
 
     <?php  foreach($pros as $pro)
 {?>
