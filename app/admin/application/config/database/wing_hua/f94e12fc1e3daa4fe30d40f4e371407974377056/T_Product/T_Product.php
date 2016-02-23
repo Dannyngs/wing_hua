@@ -1,0 +1,2 @@
+<?php exit; ?>
+{"ids":["title","image","cat_id"],"table":{"crudTitle":"T_Product manager","crudRowsPerPage":"20"},"filter":{"list":["id","title","image","cat_id"],"atrr":{"id":{"alias":"id"}}},"column":{"list":["id","title","image","cat_id"],"actived":["id","title","image"],"atrr":{"id":{"alias":"id"}}},"frm_type":"2"}

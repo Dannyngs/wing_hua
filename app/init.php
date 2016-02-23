@@ -14,7 +14,7 @@
     }
 
 //# Global Iage
-    $imgurl ="http://58.96.172.29/newcmweb.hk/themes/wing_hua/app/admin/media/images/";
+    $imgurl ="/admin/media/images/";
     
 //# Read System
     $rs = $db->query("SELECT* FROM T_System");
