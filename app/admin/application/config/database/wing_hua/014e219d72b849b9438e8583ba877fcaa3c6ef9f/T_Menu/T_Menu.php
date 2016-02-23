@@ -1,2 +1,2 @@
 <?php exit; ?>
-{"ids":["chi_title","url"],"table":{"crudTitle":"T_Menu manager","crudRowsPerPage":"20"},"filter":{"list":["id","chi_title","url","parent_id","sort"],"atrr":{"id":{"alias":"id"}}},"column":{"list":["id","chi_title","url","parent_id","sort"],"atrr":{"id":{"alias":"id"}},"actived":["id","chi_title"]},"frm_type":"2"}
+{"ids":["chi_title","url","parent_id","sort"],"table":{"crudTitle":"T_Menu manager","crudRowsPerPage":"20"},"filter":{"list":["id","chi_title","url","parent_id","sort"],"atrr":{"id":{"alias":"id"},"chi_title":{"alias":"title"}}},"column":{"list":["id","chi_title","url","parent_id","sort"],"atrr":{"id":{"alias":"id"},"chi_title":{"alias":"title"}},"actived":["id","chi_title","url","parent_id"]},"frm_type":"2"}

@@ -82,3 +82,53 @@ ERROR - 2016-02-23 13:58:05 --> Severity: Warning  --> date(): It is not safe to
 ERROR - 2016-02-23 13:58:05 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
 ERROR - 2016-02-23 13:59:44 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
 ERROR - 2016-02-23 13:59:44 --> Severity: Warning  --> strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. E:\wing_hua\app\admin\application\third_party\scrud\class\FileUpload.php 23
+ERROR - 2016-02-23 14:08:29 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:08:36 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:08:40 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:08:40 --> Severity: Warning  --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. E:\wing_hua\app\admin\application\third_party\scrud\libraries\crud.php 1050
+ERROR - 2016-02-23 14:08:40 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:08:44 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:08:51 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:08:52 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:08:52 --> Severity: Warning  --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. E:\wing_hua\app\admin\application\third_party\scrud\libraries\crud.php 854
+ERROR - 2016-02-23 14:08:53 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:09:01 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:09:07 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:09:08 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:09:09 --> Severity: Warning  --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. E:\wing_hua\app\admin\application\third_party\scrud\libraries\crud.php 854
+ERROR - 2016-02-23 14:09:09 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:09:14 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:09:27 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:09:27 --> Severity: Notice  --> Undefined index: office E:\wing_hua\app\admin\application\third_party\scrud\templates\index.php 239
+ERROR - 2016-02-23 14:09:27 --> Severity: Notice  --> Undefined index: office E:\wing_hua\app\admin\application\third_party\scrud\templates\index.php 242
+ERROR - 2016-02-23 14:09:38 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:09:45 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:10:25 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:10:26 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:10:28 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:10:40 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:10:42 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:10:43 --> Severity: Notice  --> Undefined index: office E:\wing_hua\app\admin\application\third_party\scrud\templates\index.php 239
+ERROR - 2016-02-23 14:10:43 --> Severity: Notice  --> Undefined index: office E:\wing_hua\app\admin\application\third_party\scrud\templates\index.php 242
+ERROR - 2016-02-23 14:10:47 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:10:47 --> Severity: Notice  --> Undefined index: office E:\wing_hua\app\admin\application\third_party\scrud\templates\index.php 239
+ERROR - 2016-02-23 14:10:47 --> Severity: Notice  --> Undefined index: office E:\wing_hua\app\admin\application\third_party\scrud\templates\index.php 242
+ERROR - 2016-02-23 14:10:53 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:10:58 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:11:01 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:11:04 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:11:04 --> Severity: Notice  --> Undefined index: office E:\wing_hua\app\admin\application\third_party\scrud\templates\index.php 239
+ERROR - 2016-02-23 14:11:04 --> Severity: Notice  --> Undefined index: office E:\wing_hua\app\admin\application\third_party\scrud\templates\index.php 242
+ERROR - 2016-02-23 14:11:09 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:11:17 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:11:31 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:11:34 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:11:36 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:12:24 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:12:32 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:12:35 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:13:01 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:13:03 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
+ERROR - 2016-02-23 14:13:03 --> Severity: Warning  --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. E:\wing_hua\app\admin\application\third_party\scrud\libraries\crud.php 854
+ERROR - 2016-02-23 14:13:03 --> Severity: Warning  --> date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. E:\wing_hua\app\admin\application\third_party\scrud\libraries\crud.php 902
+ERROR - 2016-02-23 14:13:03 --> Severity: Notice  --> Only variable references should be returned by reference E:\wing_hua\app\admin\system\core\Common.php 257
