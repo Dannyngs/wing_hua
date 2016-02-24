@@ -40,8 +40,8 @@ require_once 'header.php';
         
 <div class="col-md-4 col-md-offset-1">
     
- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.8190829230048!2d114.16750771492734!3d22.32268094772317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400c84c46944f%3A0xc8c9cef078a1785a!2z5pe66KeS6YCa6I-c6KGXMTgxLTE4N-iZn-amruiLseaokw!5e0!3m2!1szh-TW!2shk!4v1454061304376" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
- 						
+ 
+ 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.640181897133!2d114.16213161441051!3d22.329443947480343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400b4f8c80207%3A0x902fd8d1c3a9b2ce!2z5aGY5bC-6ZW35rKZ54Gj6YGTMTM26Jmf!5e0!3m2!1szh-TW!2shk!4v1456285271394" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>			
     
 </div>
         
